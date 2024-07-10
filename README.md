@@ -23,9 +23,6 @@
 > * **This resource utilizes "*vector4*" to all coordinates, so it can provide more accurate spawn and usage while inside a radius.**
 
 
-# **PREVIEW:** Examples of LS and Paleto.
-
-
 ```
 Config = {}
 
